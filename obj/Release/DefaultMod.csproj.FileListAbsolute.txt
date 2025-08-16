@@ -1,0 +1,21 @@
+C:\Users\Start Minecraft\Documents\Visual Studio 2015\Projects\GooseDesktop\_API Solution\GooseModdingAPI\DefaultMod\bin\Release\DefaultMod.dll
+C:\Users\Start Minecraft\Documents\Visual Studio 2015\Projects\GooseDesktop\_API Solution\GooseModdingAPI\DefaultMod\bin\Release\DefaultMod.pdb
+C:\Users\Start Minecraft\Documents\Visual Studio 2015\Projects\GooseDesktop\_API Solution\GooseModdingAPI\DefaultMod\bin\Release\GooseModdingAPI.dll
+C:\Users\Start Minecraft\Documents\Visual Studio 2015\Projects\GooseDesktop\_API Solution\GooseModdingAPI\DefaultMod\bin\Release\GooseModdingAPI.pdb
+C:\Users\Start Minecraft\Documents\Visual Studio 2015\Projects\GooseDesktop\_API Solution\GooseModdingAPI\DefaultMod\obj\Release\DefaultMod.csprojResolveAssemblyReference.cache
+C:\Users\Start Minecraft\Documents\Visual Studio 2015\Projects\GooseDesktop\_API Solution\GooseModdingAPI\DefaultMod\obj\Release\DefaultMod.dll
+C:\Users\Start Minecraft\Documents\Visual Studio 2015\Projects\GooseDesktop\_API Solution\GooseModdingAPI\DefaultMod\obj\Release\DefaultMod.pdb
+C:\Users\WaveT\Downloads\Desktop Goose v0.31\Desktop Goose v0.31\DesktopGoose v0.31\FOR MOD-MAKERS\GooseMod_DefaultSolution\DefaultMod\obj\Release\DefaultMod.csproj.AssemblyReference.cache
+C:\Users\WaveT\Downloads\Desktop Goose v0.31\Desktop Goose v0.31\DesktopGoose v0.31\FOR MOD-MAKERS\GooseMod_DefaultSolution\DefaultMod\obj\Release\DefaultMod.csproj.CoreCompileInputs.cache
+C:\Users\WaveT\Downloads\Desktop Goose v0.31\Desktop Goose v0.31\DesktopGoose v0.31\FOR MOD-MAKERS\GooseMod_DefaultSolution\DefaultMod\bin\Release\GooseModdingAPI.dll
+C:\Users\WaveT\Downloads\Desktop Goose v0.31\Desktop Goose v0.31\DesktopGoose v0.31\FOR MOD-MAKERS\GooseMod_DefaultSolution\DefaultMod\bin\Release\Newtonsoft.Json.dll
+C:\Users\WaveT\Downloads\Desktop Goose v0.31\Desktop Goose v0.31\DesktopGoose v0.31\FOR MOD-MAKERS\GooseMod_DefaultSolution\DefaultMod\bin\Release\System.Drawing.Common.dll
+C:\Users\WaveT\Downloads\Desktop Goose v0.31\Desktop Goose v0.31\DesktopGoose v0.31\FOR MOD-MAKERS\GooseMod_DefaultSolution\DefaultMod\bin\Release\GooseModdingAPI.pdb
+C:\Users\WaveT\Downloads\Desktop Goose v0.31\Desktop Goose v0.31\DesktopGoose v0.31\FOR MOD-MAKERS\GooseMod_DefaultSolution\DefaultMod\bin\Release\Newtonsoft.Json.xml
+C:\Users\WaveT\Downloads\Desktop Goose v0.31\Desktop Goose v0.31\DesktopGoose v0.31\FOR MOD-MAKERS\GooseMod_DefaultSolution\DefaultMod\bin\Release\System.Drawing.Common.pdb
+C:\Users\WaveT\Downloads\Desktop Goose v0.31\Desktop Goose v0.31\DesktopGoose v0.31\FOR MOD-MAKERS\GooseMod_DefaultSolution\DefaultMod\bin\Release\System.Drawing.Common.xml
+C:\Users\WaveT\Downloads\Desktop Goose v0.31\Desktop Goose v0.31\DesktopGoose v0.31\FOR MOD-MAKERS\GooseMod_DefaultSolution\DefaultMod\obj\Release\DefaultMod.csproj.Up2Date
+C:\Users\WaveT\Downloads\Desktop Goose v0.31\Desktop Goose v0.31\DesktopGoose v0.31\FOR MOD-MAKERS\GooseMod_DefaultSolution\DefaultMod\bin\Release\GooseAI.dll
+C:\Users\WaveT\Downloads\Desktop Goose v0.31\Desktop Goose v0.31\DesktopGoose v0.31\FOR MOD-MAKERS\GooseMod_DefaultSolution\DefaultMod\bin\Release\GooseAI.pdb
+C:\Users\WaveT\Downloads\Desktop Goose v0.31\Desktop Goose v0.31\DesktopGoose v0.31\FOR MOD-MAKERS\GooseMod_DefaultSolution\DefaultMod\obj\Release\GooseAI.dll
+C:\Users\WaveT\Downloads\Desktop Goose v0.31\Desktop Goose v0.31\DesktopGoose v0.31\FOR MOD-MAKERS\GooseMod_DefaultSolution\DefaultMod\obj\Release\GooseAI.pdb
