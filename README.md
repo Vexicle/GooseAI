@@ -1,10 +1,9 @@
 # GooseAI
 AI integration mod for Desktop goose using any AI provider (i think any)
 
-image1
-image2
-image3
-(pretend there's images here for now)
+![image1](https://raw.githubusercontent.com/Vexicle/GooseAI/refs/heads/main/Images/image1.png)
+
+![image3](https://raw.githubusercontent.com/Vexicle/GooseAI/refs/heads/main/Images/image3.png)
 
 ## How to install
 To install, download the latest release and extract the folder to DesktopGoose/Mods, make sure the GooseAI folder is inside the goose desktop's mods folder.
