@@ -9,6 +9,11 @@ public class GooseAIConfig
     public string model;
     public float chanceToSpeak;
     public string systemPrompt;
+    public string bubbleText;
+    public string bubbleEnterText;
+    public string boxType;
+
+    //fonts next?
 
     public static GooseAIConfig Load()
     {
