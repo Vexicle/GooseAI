@@ -51,7 +51,7 @@ public class TaskAIInteraction : GooseTaskInfo
         {
             try
             {
-                string userInput = GooseInputForm.ShowAt(pt, "Need help? Want some ideas? or wanna talk?");
+                string userInput = GooseInputForm.ShowAt(pt, _cfg.bubbleText);
                 if (string.IsNullOrWhiteSpace(userInput))
                     return;
 
