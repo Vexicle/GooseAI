@@ -4,6 +4,8 @@ using System.Windows.Forms;
 
 public class GooseInputForm : Form
 {
+    private GooseAIConfig _cfg = GooseAIConfig.Load();
+
     private readonly TextBox _input;
     private readonly Button _ok;
 
