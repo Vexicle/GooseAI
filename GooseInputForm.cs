@@ -38,7 +38,7 @@ public class GooseInputForm : Form
 
         _ok = new Button
         {
-            Text = "Goose!",
+            Text = _cfg.bubbleEnterText,
             Parent = this,
             Location = new Point(Padding.Left, _input.Bottom + 8),
             DialogResult = DialogResult.OK
