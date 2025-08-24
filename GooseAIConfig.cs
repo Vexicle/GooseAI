@@ -11,7 +11,6 @@ public class GooseAIConfig
     public string systemPrompt;
     public string bubbleText;
     public string bubbleEnterText;
-    public string boxType;
 
     //fonts next?
 
