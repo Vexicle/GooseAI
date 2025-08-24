@@ -26,9 +26,9 @@ public static class SpeechBubble
             );
 
             using (var brush = new SolidBrush(Color.White))
-                gfx.FillEllipse(brush, rect);
+                gfx.FillRectangle(brush, rect);
             using (var pen = new Pen(Color.Black, 2))
-                gfx.DrawEllipse(pen, rect);
+                gfx.DrawRectangle(pen, rect);
             using (var brush2 = new SolidBrush(Color.Black))
                 gfx.DrawString(_text, font, brush2, rect.X + pad, rect.Y + pad);
         }
