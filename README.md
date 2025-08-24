@@ -89,3 +89,8 @@ build as regular, and to use you'll have to **move the GooseAI.dll and newtonsof
 ```
 after you have the json file, the 2 dll's, you can run the mod as normal!
 I haven't tested whether newtonsoft DLL can be simply left out of the mod folder, lmk in issues if it's required or not
+
+# Contributions
+
+@La-Fougere
+
