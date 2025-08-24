@@ -92,5 +92,5 @@ I haven't tested whether newtonsoft DLL can be simply left out of the mod folder
 
 # Contributions
 
-@La-Fougere
-
+## [@La-Fougere](https://github.com/La-Fougere)
+for fixing a build issue with 2 references fighting over the drawing library, compiling release version 1.0.1, and giving ideas like making the speech bubble a box, make the prompt text customizable
